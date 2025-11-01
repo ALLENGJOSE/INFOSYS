@@ -1,8 +1,0 @@
-public static double rectangleArea(double length, double width) {
-        return length * width;
-    }
-
-    // Surface area of cylinder
-    public static double cylinderArea(double radius, double height) {
-        return 2 * Math.PI * radius * (radius + height);
-    }
